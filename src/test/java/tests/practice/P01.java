@@ -25,6 +25,7 @@ public class P01 {
 
       //Create a new class with main method
       public static void main(String[] args) throws InterruptedException {
+
           // Set Path
           System.setProperty("Webdriver.chrome.driver", "src/resources/chromedriver.exe");  //Burada driver'ımızı tanıttık ve yolunu gösterdik.
           // Create a chrome driver
